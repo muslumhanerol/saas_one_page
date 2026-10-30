@@ -1,4 +1,4 @@
-# How to start = 
+# How to start = npm run dev
 
 # How to install = npm create vite@latest
 
