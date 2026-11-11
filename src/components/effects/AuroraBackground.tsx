@@ -6,8 +6,11 @@ export function AuroraBackground(){
                 background:'radial-gradient(circle, rgba(124,107,255,0.8) 0%, rgba(124,107,255,0.2) 50%, transparent 70%)',
                 filter: 'blur(80px)',
                 animation: 'aurora-1 14s ease-in-out infinite',
-                willChange: ''
-            }}></div>
+                willChange: 'transform',
+            }}/>
+
+            {/* Orb 2 - indigo */}
+
         </div>
     )
 }
